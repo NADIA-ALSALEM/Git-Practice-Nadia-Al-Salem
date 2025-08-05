@@ -1,0 +1,3 @@
+My name is Nadia Al-Salem.
+I am an AI graduate with hands-on experience in machine learning, data analysis, and Git workflows.
+I enjoy learning new technologies and contributing to open-source projects.
