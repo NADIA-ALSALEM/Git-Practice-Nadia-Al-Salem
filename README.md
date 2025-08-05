@@ -33,3 +33,10 @@ This is useful for:
 5. **Push your branch** to your forked repository on GitHub.  
 6. **Open a Pull Request** to the original repository, describing your changes.  
 7. **Wait for review** and merge your contribution once approved.
+
+## Task Summary
+
+This repository was created to practice basic Git and GitHub workflows.  
+The tasks included initializing a repository, creating and merging branches,  
+adding new files, and updating the README with a brief project summary.
+
